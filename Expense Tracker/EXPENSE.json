@@ -1,0 +1,20 @@
+[
+    {
+        "date": "26-08-2026",
+        "category": "Food",
+        "amount": 150.0,
+        "description": "Lunch"
+    },
+    {
+        "date": "26-08-2026",
+        "category": "Travel",
+        "amount": 80.0,
+        "description": "Bus ticket"
+    },
+    {
+        "date": "25-08-2026",
+        "category": "Shopping",
+        "amount": 500.0,
+        "description": "T-shirt"
+    }
+]
